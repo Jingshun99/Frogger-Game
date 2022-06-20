@@ -1,0 +1,1 @@
+memberSearchIndex = [{"p":"model","c":"Model","l":"getBackground()"},{"p":"model","c":"Model","l":"getStage()"},{"p":"model","c":"Model","l":"setBackground(BackgroundImage)","url":"setBackground(javafx.scene.layout.BackgroundImage)"},{"p":"model","c":"Model","l":"setStage(Stage)","url":"setStage(javafx.stage.Stage)"}]
